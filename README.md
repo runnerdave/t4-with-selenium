@@ -1,5 +1,5 @@
 # t4-with-selenium
-automated tool to measure t4 page load times and other metrics 
+automated tool to measure t4 page load times and other metrics. 
 
 # building and running
 \t4-with-selenium>mvn clean package
